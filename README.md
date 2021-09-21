@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 👋 Hi, I’m Ashwuni Kumar
-- 🔭 I’m currently an upcoming intern at Viziya as a Software Developer
-- 🌱 I’m currently learning/ taking courses in Data Structures & Algorithms, Databases & Software Design, Software Engineering Principles, and Machine Learning
-- 🌱 I can code in Ruby, C#, Java, and Python using frameworks/libraries such as Ruby on Rails, Matplotlib, tidyverse, randomForest, e1071, rpart, parsnip, gridExtra, MLmetrics, caret, and tree
+- 🔭 I have completed internships at Prometheus Group, Loblaw, Teranet and TTC.
+- 🌱 I am currently taking courses in Human-Computer Interaction, Machine Learning, Stochastic Models, Deterministic Optimization, Data Structures & Algorithms, and Statistics.
+- 🌱 I can code in Ruby, C#, Java, and Python using frameworks/libraries such as Ruby on Rails, Matplotlib, tidyverse, randomForest, e1071, rpart, parsnip, gridExtra, MLmetrics, caret, tree, etc.
 
-- 📫 You can reach out to me at: a255kuma@uwaterloo.ca
+- 📫 You can reach me at ashwuni.kumar@uwaterloo.ca
